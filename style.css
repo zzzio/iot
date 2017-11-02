@@ -2,6 +2,10 @@ body {
  font-family: 'Itim', cursive;
 }
 
-div {
+div .w3-bar w3-pale-green {
+ font-family: 'Raleway', sans-serif;
+}
+
+div .w3-container w3-pale-green {
  font-family: 'Raleway', sans-serif;
 }
